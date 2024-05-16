@@ -1,10 +1,7 @@
 public class Dice {
 
 
-
-
-
-    public int play(){
+    public int play() {
         int temp = cast();
         display(temp);
         return temp;

@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class DiceGame {
@@ -51,6 +50,7 @@ public class DiceGame {
             } else {
                 playAgain = false;
                 scan.close();
+
 
             }
         }
